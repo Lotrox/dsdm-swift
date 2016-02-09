@@ -142,7 +142,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = DSDM;
+				ORGANIZATIONNAME = "Universidad de Jaén";
 				TargetAttributes = {
 					4B25B5E21C69F37C0095AD6C = {
 						CreatedOnToolsVersion = 7.2;
@@ -329,7 +329,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.lotrox.FoodTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = es.ujaen.FoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -340,7 +340,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.lotrox.FoodTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = es.ujaen.FoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
